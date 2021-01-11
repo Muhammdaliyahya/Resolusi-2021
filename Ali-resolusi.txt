@@ -1,0 +1,7 @@
+Haloo pak sandhika, salam kenal saya Muhammad Ali Yahya dari Jakarta
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Membuat website yang terhubung ke database
+- Membuat website menggunakan framework php
+- Melakukan Hosting website
